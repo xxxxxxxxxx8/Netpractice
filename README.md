@@ -8,6 +8,19 @@ The net_practice project is our first networking related project in the 42 curri
 
 Final score: Complete all levels for full credit.
 
+## What is a Network?
+In simple terms, a Network in computing is a group of two or more devices that can communicate amongst each other. By communicating we mean the possibility of sending and receiving data (or packets) between different devices (or nodes).
+
+The Internet is one of many examples of a network. It is probably the biggest network in the world, and connects many different nodes, making the sharing of data available between devices located anywhere in the world.
+
+On the other hand, we also have Private Networks. A Private Network allows for communication between devices that are restricted to a specific location or domain. The data transfer is not allowed for anyone unregistered, making it a much safer and controlled environment. A Home Network is an example of private network. In there, you can connect to your personal printer when no one who isn't connected to your house's Wi-Fi, for example, could.
+
+
+Transmission Control Protocol (TCP) is a communication standard protocol that enables nodes to communicate with each other. TCP is responsible for breaking data into small pieces (packets), sending them over the network, and then rebuilding them while ensuring there is no data lost in the process.
+
+IP (Internet Protocol) assigns unique addresses to devices for identification and routing. TCP and IP are not the same thing, but rather two separate protocols that work together to ensure data transfer between different devices.
+There are two versions of IP Addresses: IPv4 and IPv6. For this project, only IPv4 is needed.
+
 IP is a connectionless protocol that operates at the network layer of the OSI model. IP enables communication between hosts by carrying data within packets. Each host is assigned an IP address which is used to ensure that traffic is sent to the correct destination, synonymous in many ways to a postal address that we place on a letter.
 
 An IP address (in the case of v4) is built upon 32-bits, expressed in four numbers known as octets. Each octet is 8 bits i.e one byte.
@@ -83,19 +96,6 @@ Hosts/Net: 254                   (Private Internet)
 - [Router](#router)
 - [Routing Table](#routing-table)
 - [Levels](#levels)
-
-## What is a Network?
-In simple terms, a Network in computing is a group of two or more devices that can communicate amongst each other. By communicating we mean the possibility of sending and receiving data (or packets) between different devices (or nodes).
-
-The Internet is one of many examples of a network. It is probably the biggest network in the world, and connects many different nodes, making the sharing of data available between devices located anywhere in the world.
-
-On the other hand, we also have Private Networks. A Private Network allows for communication between devices that are restricted to a specific location or domain. The data transfer is not allowed for anyone unregistered, making it a much safer and controlled environment. A Home Network is an example of private network. In there, you can connect to your personal printer when no one who isn't connected to your house's Wi-Fi, for example, could.
-
-
-Transmission Control Protocol (TCP) is a communication standard protocol that enables nodes to communicate with each other. TCP is responsible for breaking data into small pieces (packets), sending them over the network, and then rebuilding them while ensuring there is no data lost in the process.
-
-IP (Internet Protocol) assigns unique addresses to devices for identification and routing. TCP and IP are not the same thing, but rather two separate protocols that work together to ensure data transfer between different devices.
-There are two versions of IP Addresses: IPv4 and IPv6. For this project, only IPv4 is needed.
 
 ## IPv4 and Subnet Masks
 
