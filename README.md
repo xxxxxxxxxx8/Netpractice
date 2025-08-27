@@ -65,8 +65,6 @@ Hosts/Net: 254                   (Private Internet)
 ## 🧰 Tools
 [IP Calculator](https://jodies.de/ipcalc) - ipcalc takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range.
 
-## Author
-- GitHub: [mtarza13](https://github.com/mtarza13)
 
 ## Table of Contents
 - [What is a Network?](#what-is-a-network)
@@ -208,3 +206,5 @@ Below are professional diagrams for each level. Images are organized by level fo
 
 ---
 This README summarizes networking concepts and the Net Practice project structure. For details on each level, refer to the corresponding JSON files.
+## Author
+- GitHub: [mtarza13](https://github.com/mtarza13)
