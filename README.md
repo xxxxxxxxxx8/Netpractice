@@ -141,20 +141,20 @@ The project includes 10 levels, each with a different network configuration chal
 ---
 
 ### Level Visual Gallery
-Place your images in the `img/` folder and use the provided filenames, or update them to match your own. Each image will appear as a sidebar visual for the corresponding level.
+Below are professional diagrams for each level. Images are organized by level folders for clarity. Make sure your images are named and placed as shown for best results.
 
 | Level | Diagram |
 |-------|--------|
-| **Level 1**  | ![Level 1 Network](img/level1.png) |
-| **Level 2**  | ![Level 2 Network](img/level2.png) |
-| **Level 3**  | ![Level 3 Network](img/level3.png) |
-| **Level 4**  | ![Level 4 Network](img/level4.png) |
-| **Level 5**  | ![Level 5 Network](img/level5.png) |
-| **Level 6**  | ![Level 6 Network](img/level6.png) |
-| **Level 7**  | ![Level 7 Network](img/level7.png) |
-| **Level 8**  | ![Level 8 Network](img/level8.png) |
-| **Level 9**  | ![Level 9 Network](img/level9.png) |
-| **Level 10** | ![Level 10 Network](img/level10.png) |
+| **Level 1**  | ![Level 1 Network](level1/level1_paint.png) |
+| **Level 2**  | ![Level 2 Network](level2/level2_paint.png) |
+| **Level 3**  | ![Level 3 Network](level3/level3_paint.png) |
+| **Level 4**  | ![Level 4 Network](level4/level4_paint.png) |
+| **Level 5**  | ![Level 5 Network](level5/level5_paint.png) |
+| **Level 6**  | ![Level 6 Network](level6/level6_paint.png) |
+| **Level 7**  | ![Level 7 Network](level7/level7_paint.png) |
+| **Level 8**  | ![Level 8 Network](level8/level8Paint_v2.png) |
+| **Level 9**  | ![Level 9 Network](level9/level9_paint.png) |
+| **Level 10** | ![Level 10 Network](level10/level10_paint.png) |
 
 ---
 
