@@ -4,7 +4,7 @@
 
 ## 42cursus' project #10
 The net_practice project is our first networking related project in the 42 curriculum. It consists of 10 exercises in which you configure different small-scale networks to communicate with each other, using concepts learned about TCP/IP addressing.
-
+ 
 
 Final score: Complete all levels for full credit.
 
